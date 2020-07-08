@@ -5,6 +5,11 @@
     font-family: 'Oswald', sans-serif !important;
 }
 
+#fecha {
+    color: #fff;
+    font-size: 3rem;
+}
+
 #titulos {
     color: #000;
     font-size: 8rem;
@@ -68,6 +73,15 @@
     width: 100%;
     height: 75vh;
     padding: 0;
+}
+
+#citas {
+    z-index: 5;
+    position: absolute;
+    margin: 30rem 0 0 -14rem;
+    font-size: 2rem;
+    background: rgba(250, 250, 250, .7);
+    color: #000;
 }
 
 .subrayar {
