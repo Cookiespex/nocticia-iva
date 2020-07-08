@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+#titulos {
+    color: #000;
+    font-size: 8rem;
+    background: #f1f503;
+    padding: 2rem 15rem 2rem 2rem;
+    margin: 11rem 11rem 0;
+}
+
+#texto {
+    color: #fff;
+    background: #000;
+    font-size: 1.5rem;
+    text-align: justify;
+    padding: 1rem 12rem;
+    border: none;
+}
+
+#sin_iva {
+    width: 43rem;
+    height: 28rem;
+    margin: 28rem 0 0 -30rem;
+    z-index: 5;
+    /*transform: rotate3d(1, 1, 1, 10deg);*/
+}
+
+#intro {
+    color: #000;
+    font-size: 3rem;
+    font-family: 'Bangers', cursive !important;
+}
+
+
+#meme_3 {
+    width: 55rem;
+    height: 35rem;
+}
+
+#desarrollo, #desarrolloD {
+    color: #000;
+    font-size: 2.5rem;
+}
+
+#img_seria_1 {
+    width: 55rem;
+    height: 26rem;
+}
+
+#atencion {
+    z-index: 5;
+    position: absolute;
+    margin: 12rem 0 0 -44rem;
+}
+
+#gracias {
+    z-index: 5;
+    position: absolute;
+    margin: 12rem 0 0 14rem;
+}
+
+#duque {
+    width: 100%;
+    height: 75vh;
+    padding: 0;
+}
+
+.subrayar {
+    background: #f1f503;
+    padding: 0 .5rem;
+    font-size: 2.5rem;
+}
+
+.testimonial-group > .row {
+    white-space: nowrap;
+}
+
+.testimonial-group > .row > .col-xs-12 {
+    display: inline-flex;
+    float: none;
+    height: 100vh;
+}
+
+.col-xs-12 { 
+    color: #fff; 
+    font-size: 48px; 
+    padding-bottom: 20px; 
+    padding-top: 18px; 
+}
+
+body::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
